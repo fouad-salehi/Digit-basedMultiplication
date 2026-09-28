@@ -8,6 +8,9 @@
 ![Repo Size](https://img.shields.io/github/repo-size/theinternetisahellhole/Digit-basedMultiplication)
 ![Last Commit](https://img.shields.io/github/last-commit/theinternetisahellhole/Digit-basedMultiplication)
 
+<img width="1376" height="768" alt="The Digit-based Multiplication algorithm is a simple and classical method for multiplying two numbers" src="https://github.com/user-attachments/assets/4a91e5a1-f958-47af-9eae-ab8108592ad2" />
+
+
 ## Algorithm, Implementation, and Complexity Analysis
 
 This repository presents an implementation and analysis of the **Digit-based Multiplication** algorithm, a classical approach for multiplying two integers by processing their digits and combining the resulting partial products.
@@ -104,21 +107,8 @@ This quadratic behavior is one of the main characteristics of classical digit-ba
 A significant practical issue arises when the result exceeds the range supported by the selected data type.
 
 For example:
+<img width="1376" height="768" alt="Large Integer Limitations" src="https://github.com/user-attachments/assets/51dbe541-9a2e-4fe9-824c-f37a0689330f" />
 
-```text
-Maximum value of the data type
-        |
-        v
-+---------------------------+
-|        Integer Range      |
-+---------------------------+
-              |
-              v
-       Multiplication
-              |
-              v
-        Integer Overflow
-```
 
 When the operands or their product exceed the available numeric range, the implementation may produce an incorrect result or overflow.
 
