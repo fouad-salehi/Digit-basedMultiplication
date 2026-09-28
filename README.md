@@ -8,7 +8,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/theinternetisahellhole/Digit-basedMultiplication)
 ![Last Commit](https://img.shields.io/github/last-commit/theinternetisahellhole/Digit-basedMultiplication)
 
-<img width="1376" height="768" alt="The Digit-based Multiplication algorithm is a simple and classical method for multiplying two numbers" src="https://github.com/user-attachments/assets/4a91e5a1-f958-47af-9eae-ab8108592ad2" />
+<img width="1376" height="688" alt="The Digit-based Multiplication algorithm is a simple and classical method for multiplying two numbers" src="https://github.com/user-attachments/assets/703185f6-658e-4ad5-af43-bd173f5e2ede" />
 
 
 ## Algorithm, Implementation, and Complexity Analysis
