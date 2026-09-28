@@ -176,12 +176,12 @@ Therefore, the algorithm remains particularly useful for:
 * Comparing classical and advanced multiplication methods
 * Understanding the relationship between mathematical algorithms and practical implementations
 
+## Author
+
+[**Fouad Salehi**](https://github.com/fouad-salehi)
+
 ## License
 
 This project is distributed under the MIT License.
 
-See the [`LICENSE`](./LICENSE) file for the complete license text.
-
-## Author
-
-Fouad Salehi
+See the [LICENSE](./LICENSE) file for the complete license text.
