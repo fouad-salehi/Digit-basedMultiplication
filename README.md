@@ -1,4 +1,5 @@
 # Digit-based Multiplication
+
 ![File Type](https://img.shields.io/badge/File-PDF-red)
 ![Document](https://img.shields.io/badge/Type-Academic%20Article-blue)
 ![Topic](https://img.shields.io/badge/Topic-Algorithm%20Analysis-green)
@@ -9,7 +10,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/theinternetisahellhole/Digit-basedMultiplication)
 
 <img width="1376" height="688" alt="The Digit-based Multiplication algorithm is a simple and classical method for multiplying two numbers" src="https://github.com/user-attachments/assets/703185f6-658e-4ad5-af43-bd173f5e2ede" />
-
 
 ## Algorithm, Implementation, and Complexity Analysis
 
@@ -107,10 +107,12 @@ This quadratic behavior is one of the main characteristics of classical digit-ba
 A significant practical issue arises when the result exceeds the range supported by the selected data type.
 
 For example:
+
 <img width="1376" height="768" alt="Large Integer Limitations" src="https://github.com/user-attachments/assets/51dbe541-9a2e-4fe9-824c-f37a0689330f" />
 
-
-When the operands or their product exceed the available numeric range, the implementation may produce an incorrect result or overflow.
+> [!WARNING]
+> When the operands or their product exceed the available numeric range, the implementation
+> may produce an incorrect result or overflow.
 
 This repository investigates these limitations and provides corrected implementations and output handling for larger values.
 
@@ -157,14 +159,15 @@ The paper discusses:
 
 The classical digit-based approach is straightforward and easy to understand and implement. However, its quadratic complexity makes it less efficient than advanced multiplication algorithms for sufficiently large operands.
 
-Therefore, the algorithm remains particularly useful for:
-
-* Educational purposes
-* Understanding positional multiplication
-* Studying algorithmic complexity
-* Demonstrating numerical overflow
-* Comparing classical and advanced multiplication methods
-* Understanding the relationship between mathematical algorithms and practical implementations
+> [!TIP]
+> Therefore, the algorithm remains particularly useful for:
+>
+> * Educational purposes
+> * Understanding positional multiplication
+> * Studying algorithmic complexity
+> * Demonstrating numerical overflow
+> * Comparing classical and advanced multiplication methods
+> * Understanding the relationship between mathematical algorithms and practical implementations
 
 ## Author
 
